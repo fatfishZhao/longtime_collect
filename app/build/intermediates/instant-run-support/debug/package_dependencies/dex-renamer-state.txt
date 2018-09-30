@@ -1,0 +1,4 @@
+#Sat Sep 29 08:56:18 CST 2018
+base.0=E\:\\BandStreamingAppActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\microsoft-band-1.3.20307.2_6c222b575e1e4fb9edc6e6eb62a9b3053dc4302b
+renamed.0=classes.dex
+file.0=E\:\\BandStreamingAppActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\microsoft-band-1.3.20307.2_6c222b575e1e4fb9edc6e6eb62a9b3053dc4302b\\classes.dex

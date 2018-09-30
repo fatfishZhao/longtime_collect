@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\androidWork\BandStreamingAppActivityTest\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="E:\androidWork\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\microsoft-band-1.3.20307.2_291349219a8757ec671b3ef66ec1ff9556f0d56c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\githubAndroid\BandStreamingAppActivityTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\githubAndroid\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40e3926b45dba5490b206c626196028d9dd0c292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\githubAndroid\BandStreamingAppActivityTest\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="E:\githubAndroid\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\microsoft-band-1.3.20307.2_c46da0b4042f5fcbfad642b1827ab23f2b057477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\githubAndroid\BandStreamingAppActivityTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d25ddf95d82c45203f9ab79cd1eb23674d3bc05b">
+        <dex dex="E:\githubAndroid\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_85dcadd558e1474c2961b68495a4f2a13eb08c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BandStreamingAppActivityTest\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="E:\BandStreamingAppActivityTest\app\build\intermediates\pre-dexed\release\microsoft-band-1.3.20307.2_6c222b575e1e4fb9edc6e6eb62a9b3053dc4302b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BandStreamingAppActivityTest\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="E:\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\microsoft-band-1.3.20307.2_6c222b575e1e4fb9edc6e6eb62a9b3053dc4302b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BandStreamingAppActivityTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4cd859fd247760ab6d43b264917477214312d344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidWork\BandStreamingAppActivityTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1418b047cffb44e8d2c8d82b1b81343e726f9c1">
+        <dex dex="E:\androidWork\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0a3ba598e74061c7b84a3c7bbe1bd81af6ddb030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BandStreamingAppActivityTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68b5a43df8f25d944fd44b4396afd98bb831346f">
+        <dex dex="E:\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_22380c601448b171e4b4dff42cf7a923f41c57ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidWork\BandStreamingAppActivityTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\androidWork\BandStreamingAppActivityTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_32bfbad8e032663381c6815ad173ad42254c08d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\githubAndroid\BandStreamingAppActivityTest\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="E:\githubAndroid\BandStreamingAppActivityTest\app\build\intermediates\pre-dexed\release\microsoft-band-1.3.20307.2_c46da0b4042f5fcbfad642b1827ab23f2b057477.jar" />
+    </item>
+
+</items>

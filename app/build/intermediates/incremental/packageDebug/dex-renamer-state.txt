@@ -1,0 +1,7 @@
+#Sat Sep 29 08:56:19 CST 2018
+base.0=E\:\\BandStreamingAppActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4cd859fd247760ab6d43b264917477214312d344
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\BandStreamingAppActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22380c601448b171e4b4dff42cf7a923f41c57ea\\classes.dex
+base.1=E\:\\BandStreamingAppActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22380c601448b171e4b4dff42cf7a923f41c57ea
+file.0=E\:\\BandStreamingAppActivityTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4cd859fd247760ab6d43b264917477214312d344\\classes.dex
